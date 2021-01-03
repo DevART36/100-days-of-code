@@ -20,3 +20,9 @@ Created cat photo app.
 **Link(s) to work**
 
 
+### Day 3: January 3, Sunday
+
+**Today's Progress**: Learned about the element's positioning: relative&absolute. The elements offsets: top,bottom,left&right properties. I also learned the box-shadow justsu to make an element like card.
+I learned how to transform and animate the elements. I'm a bit confused of cubic -bezier().
+
+**Thuoghts** It is really hard for me but I learned a lot ,specially the animation and transform of elements. 
