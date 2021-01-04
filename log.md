@@ -26,3 +26,9 @@ Created cat photo app.
 I learned how to transform and animate the elements. I'm a bit confused of cubic -bezier().
 
 **Thuoghts** It is really hard for me but I learned a lot ,specially the animation and transform of elements. 
+
+### Day 4: January 4, Monday
+
+**Today's Progress**: Finished the Applied Visual Design, Learned more about aniamtions, The Cubic-bezier(). Code a clone of heart -animation
+**Thuoghts** I'm still really confused about the Cubic bezier(). I code the heart-animation clone from scratch and I felt so anoyyed of the transform() but I really enjoyed it :).
+
