@@ -32,3 +32,7 @@ I learned how to transform and animate the elements. I'm a bit confused of cubic
 **Today's Progress**: Finished the Applied Visual Design, Learned more about aniamtions, The Cubic-bezier(). Code a clone of heart -animation
 **Thuoghts** I'm still really confused about the Cubic bezier(). I code the heart-animation clone from scratch and I felt so anoyyed of the transform() but I really enjoyed it :).
 
+### Day 5: January 5, Tuesday
+
+**Today's Progress**: Finished the Applied Accessibility curriculum, I learned about the HTML5 semantic tags: header,footer,nav,main,section,article,audio,figure,figcaption&time. I learned more about the proper alt text for screen readers.I learned the basics of how the contrast of colors can affect the visual design of a webpage and making it accessable for color blind persons.
+**Thuoghts** I thnk this is one of the most imporant part that I should learn and practice because it is design for any person that has a visual impaired or hearing difficulties or color blinds.
