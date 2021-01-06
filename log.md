@@ -36,3 +36,11 @@ I learned how to transform and animate the elements. I'm a bit confused of cubic
 
 **Today's Progress**: Finished the Applied Accessibility curriculum, I learned about the HTML5 semantic tags: header,footer,nav,main,section,article,audio,figure,figcaption&time. I learned more about the proper alt text for screen readers.I learned the basics of how the contrast of colors can affect the visual design of a webpage and making it accessable for color blind persons.
 **Thuoghts** I thnk this is one of the most imporant part that I should learn and practice because it is design for any person that has a visual impaired or hearing difficulties or color blinds.
+
+
+### Day 6: January 6, Wednesday
+
+**Today's Progress**: Finished the Responsive Web Design Principle curriculum, Day 6 of #100DaysOfCode in #freeCodeCamp 
+
+I've just finished the Web Design Principles in the curriculum, and I applied my learnings to my simple webpage .  I learned about how to make a typography responsive , the image by using the max-width: 100% and height: auto;
+**Thuoghts** Learning how the media query works is so fun. I know now how to make a webpage responsive using the viewport measurements units.
