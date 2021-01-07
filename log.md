@@ -44,3 +44,10 @@ I learned how to transform and animate the elements. I'm a bit confused of cubic
 
 I've just finished the Web Design Principles in the curriculum, and I applied my learnings to my simple webpage .  I learned about how to make a typography responsive , the image by using the max-width: 100% and height: auto;
 **Thuoghts** Learning how the media query works is so fun. I know now how to make a webpage responsive using the viewport measurements units.
+
+### Day 7: January 7, Thursday
+
+**Today's Progress**:
+I 've just finished the CSS Flexbox Tutorial in the curriculum, and loved it ! This is one of my favorite designing tools in CSS because of what it can do instead of the CSS floats. After , I  challenged my self to try flexboxfroggy. https://t.co/EP4lgH2kIy 
+
+**Thuoghts** I love CSS flexbox a lot , it is one of the most advance feature in CCS3. I love how it makes our lives easier(in postioning of elements) instead of the float types. I'm sure that I can do a web desgn by using just a flexbox.
