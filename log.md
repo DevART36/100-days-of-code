@@ -51,3 +51,11 @@ I've just finished the Web Design Principles in the curriculum, and I applied my
 I 've just finished the CSS Flexbox Tutorial in the curriculum, and loved it ! This is one of my favorite designing tools in CSS because of what it can do instead of the CSS floats. After , I  challenged my self to try flexboxfroggy. https://t.co/EP4lgH2kIy 
 
 **Thuoghts** I love CSS flexbox a lot , it is one of the most advance feature in CCS3. I love how it makes our lives easier(in postioning of elements) instead of the float types. I'm sure that I can do a web desgn by using just a flexbox.
+
+### Day 8: January 8, Friday
+
+**Today's Progress**
+
+I've just finished the CSS Grid in the curriculum, I felt so overwhelmed by it. I learned the repeat(), autofill, minmax() that helps me to automaticaly create grids. After finishing it, I apply my knowledge on :https://t.co/5JbwOPLlCJ
+I learned how to create rows and columns and automate them.
+**Thuoghts** I also love CSS Grid a lot , I think this is the sanme wth flexbox in terms of webstie structuring, and I will use it to my future projects.
