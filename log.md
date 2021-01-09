@@ -59,3 +59,12 @@ I 've just finished the CSS Flexbox Tutorial in the curriculum, and loved it ! T
 I've just finished the CSS Grid in the curriculum, I felt so overwhelmed by it. I learned the repeat(), autofill, minmax() that helps me to automaticaly create grids. After finishing it, I apply my knowledge on :https://t.co/5JbwOPLlCJ
 I learned how to create rows and columns and automate them.
 **Thuoghts** I also love CSS Grid a lot , I think this is the sanme wth flexbox in terms of webstie structuring, and I will use it to my future projects.
+
+
+### Day 9: January 9, Saturday
+
+**Today's Progress**
+
+Day 9 of #100DaysOfCode in #freeCodeCamp 
+
+I'm revewing my lessons about CSS grid in https://t.co/g71L9RnYvF for the upcoming projects, code in VSCODE and preview it on the browser. I created a ready-structure for a Website using grid-area. https://t.co/Nm7paGqvCP
