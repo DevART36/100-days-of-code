@@ -68,3 +68,11 @@ I learned how to create rows and columns and automate them.
 Day 9 of #100DaysOfCode in #freeCodeCamp 
 
 I'm revewing my lessons about CSS grid in https://t.co/g71L9RnYvF for the upcoming projects, code in VSCODE and preview it on the browser. I created a ready-structure for a Website using grid-area. https://t.co/Nm7paGqvCP
+
+### Day 9: January 9, Saturday
+
+**Today's Progress**
+
+Day 10 of #100DaysOfCode in #freeCodeCamp 
+
+Watched 20mns of CSSgrid in Youtube , Started my first project: Tribute Page. Almost done ! I'm using flexbox a lot :P . After that I installed git in my VSCODE android port. I'm so excited for my upcomming projects and to learn more :) https://t.co/A3qrNyp40n
