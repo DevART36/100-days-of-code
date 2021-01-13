@@ -89,3 +89,15 @@ Day 11 of #100DaysOfCode in #freeCodeCamp
 
 Just finished my first project ! I applied media query for mobile view & some typography adjustments, I'm so happy :) I will upload this to my github tomorrow because my currently internet is so slow. Cheersto me :D https://t.co/gVkj949bR8
 **Thuoghts** I's super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
+
+### Day 12: January 13, Wednesday
+
+**Today's Progress**
+
+### Day 11: January 11, Monday
+
+**Today's Progress**
+
+Day 12 of #100DaysOfCode in #freeCodeCamp 
+Just got done finishing my 2nd Project! Spend almost 5 hours but It's all worth it. I finished puttng some background on body:before, Used W3Schools and boom! Fixed it. I also add some media queries to display it on Android phones. :) https://t.co/YmezDzgyGb
+**Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
