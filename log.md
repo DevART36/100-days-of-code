@@ -88,13 +88,10 @@ Watched 20mns of CSSgrid in Youtube , Started my first project: Tribute Page. Al
 Day 11 of #100DaysOfCode in #freeCodeCamp 
 
 Just finished my first project ! I applied media query for mobile view & some typography adjustments, I'm so happy :) I will upload this to my github tomorrow because my currently internet is so slow. Cheersto me :D https://t.co/gVkj949bR8
-**Thuoghts** I's super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
+**Thuoghts** I'm super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
+
 
 ### Day 12: January 13, Wednesday
-
-**Today's Progress**
-
-### Day 11: January 11, Monday
 
 **Today's Progress**
 
