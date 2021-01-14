@@ -98,3 +98,10 @@ Just finished my first project ! I applied media query for mobile view & some ty
 Day 12 of #100DaysOfCode in #freeCodeCamp 
 Just got done finishing my 2nd Project! Spend almost 5 hours but It's all worth it. I finished puttng some background on body:before, Used W3Schools and boom! Fixed it. I also add some media queries to display it on Android phones. :) https://t.co/YmezDzgyGb
 **Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
+
+# Day 13: January 14, Thursday
+
+**Today's Progress**
+
+Day 13 of #100DaysOfCode in #freeCodeCamp
+Researching about the product and Company.Coding some html and css for the product landing page and I will finish it tomorrow! :) https://t.co/M642ahHQQw**Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
