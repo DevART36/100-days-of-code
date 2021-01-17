@@ -104,4 +104,16 @@ Just got done finishing my 2nd Project! Spend almost 5 hours but It's all worth 
 **Today's Progress**
 
 Day 13 of #100DaysOfCode in #freeCodeCamp
-Researching about the product and Company.Coding some html and css for the product landing page and I will finish it tomorrow! :) https://t.co/M642ahHQQw**Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
+Researching about the product and Company.Coding some html and css for the product landing page and I will finish it tomorrow! :) https://t.co/M642ahHQQw
+**Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
+
+# Day 14: January 17, Sunday
+
+**Today's Progress**
+
+Day 14 of #100DaysOfCode in #freeCodeCamp
+Absent for 2days beacuse of my unstable network, now almost finished in my 3rd project. I read the DOCS of https://t.co/W4hsRjDk6v and applied it to my Product Landing Page. I will finish it tommorrow . Learned something new today. https://t.co/ksqWsqR0Wn
+
+**Thuoghts** 
+I am absent for 2 days beacuse of my glitchy internet but I manage to learn some linux distro things. I learned now how to use icons from fontawesome for my project.
+
