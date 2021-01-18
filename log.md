@@ -117,3 +117,12 @@ Absent for 2days beacuse of my unstable network, now almost finished in my 3rd p
 **Thuoghts** 
 I am absent for 2 days beacuse of my glitchy internet but I manage to learn some linux distro things. I learned now how to use icons from fontawesome for my project.
 
+# Day 15: January 18, Monday
+
+**Today's Progress**
+
+Day 15 of #100DaysOfCode in #freeCodeCamp
+Still working for my 3rd Project , I applied flexbox a lot on this and fixing some bugs . I add the url of the Youtube video to the iframe tag, but my internet is so slow so it does not show. Hope to finish this tommorow. Whish me luck. https://t.co/RhTklNVcOH
+
+**Thuoghts** 
+I'm struggling in this project but I will finish it no matter how it takes. I hope I will finish this tommorow.
