@@ -35,7 +35,7 @@ I learned how to transform and animate the elements. I'm a bit confused of cubic
 ### Day 5: January 5, Tuesday
 
 **Today's Progress**: Finished the Applied Accessibility curriculum, I learned about the HTML5 semantic tags: header,footer,nav,main,section,article,audio,figure,figcaption&time. I learned more about the proper alt text for screen readers.I learned the basics of how the contrast of colors can affect the visual design of a webpage and making it accessable for color blind persons.
-**Thuoghts** I thnk this is one of the most imporant part that I should learn and practice because it is design for any person that has a visual impaired or hearing difficulties or color blinds.
+**Thoughts** I thnk this is one of the most imporant part that I should learn and practice because it is design for any person that has a visual impaired or hearing difficulties or color blinds.
 
 
 ### Day 6: January 6, Wednesday
@@ -43,7 +43,7 @@ I learned how to transform and animate the elements. I'm a bit confused of cubic
 **Today's Progress**: Finished the Responsive Web Design Principle curriculum, Day 6 of #100DaysOfCode in #freeCodeCamp 
 
 I've just finished the Web Design Principles in the curriculum, and I applied my learnings to my simple webpage .  I learned about how to make a typography responsive , the image by using the max-width: 100% and height: auto;
-**Thuoghts** Learning how the media query works is so fun. I know now how to make a webpage responsive using the viewport measurements units.
+**Thoughts** Learning how the media query works is so fun. I know now how to make a webpage responsive using the viewport measurements units.
 
 ### Day 7: January 7, Thursday
 
@@ -58,7 +58,7 @@ I 've just finished the CSS Flexbox Tutorial in the curriculum, and loved it ! T
 
 I've just finished the CSS Grid in the curriculum, I felt so overwhelmed by it. I learned the repeat(), autofill, minmax() that helps me to automaticaly create grids. After finishing it, I apply my knowledge on :https://t.co/5JbwOPLlCJ
 I learned how to create rows and columns and automate them.
-**Thuoghts** I also love CSS Grid a lot , I think this is the sanme wth flexbox in terms of webstie structuring, and I will use it to my future projects.
+**Thoughts** I also love CSS Grid a lot , I think this is the sanme wth flexbox in terms of webstie structuring, and I will use it to my future projects.
 
 
 ### Day 9: January 9, Saturday
@@ -78,7 +78,7 @@ Day 10 of #100DaysOfCode in #freeCodeCamp
 Watched 20mns of CSSgrid in Youtube , Started my first project: Tribute Page. Almost done ! I'm using flexbox a lot :P . After that I installed git in my VSCODE android port. I'm so excited for my upcomming projects and to learn more :) https://t.co/A3qrNyp40n
 
 
-**Thuoghts** I's super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
+**Thoughts** I's super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
 
 
 ### Day 11: January 11, Monday
@@ -88,7 +88,7 @@ Watched 20mns of CSSgrid in Youtube , Started my first project: Tribute Page. Al
 Day 11 of #100DaysOfCode in #freeCodeCamp 
 
 Just finished my first project ! I applied media query for mobile view & some typography adjustments, I'm so happy :) I will upload this to my github tomorrow because my currently internet is so slow. Cheersto me :D https://t.co/gVkj949bR8
-**Thuoghts** I'm super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
+**Thoughts** I'm super excited for my first project and I almost done it 90%. I hope I Can finish the upcoming projects and apply my learnings from the curriculum to get my peronal certificate. I learend now about CSS grid dimensions
 
 
 ### Day 12: January 13, Wednesday
@@ -97,7 +97,7 @@ Just finished my first project ! I applied media query for mobile view & some ty
 
 Day 12 of #100DaysOfCode in #freeCodeCamp 
 Just got done finishing my 2nd Project! Spend almost 5 hours but It's all worth it. I finished puttng some background on body:before, Used W3Schools and boom! Fixed it. I also add some media queries to display it on Android phones. :) https://t.co/YmezDzgyGb
-**Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
+**Thoughts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
 
 # Day 13: January 14, Thursday
 
@@ -105,7 +105,7 @@ Just got done finishing my 2nd Project! Spend almost 5 hours but It's all worth 
 
 Day 13 of #100DaysOfCode in #freeCodeCamp
 Researching about the product and Company.Coding some html and css for the product landing page and I will finish it tomorrow! :) https://t.co/M642ahHQQw
-**Thuoghts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
+**Thoughts** It is hard for me because I'm exposed to new environment. But I tried my best to finished my projectt. Lookng forward to my upcomming projects.
 
 # Day 14: January 17, Sunday
 
@@ -114,7 +114,7 @@ Researching about the product and Company.Coding some html and css for the produ
 Day 14 of #100DaysOfCode in #freeCodeCamp
 Absent for 2days beacuse of my unstable network, now almost finished in my 3rd project. I read the DOCS of https://t.co/W4hsRjDk6v and applied it to my Product Landing Page. I will finish it tommorrow . Learned something new today. https://t.co/ksqWsqR0Wn
 
-**Thuoghts** 
+**Thoughts** 
 I am absent for 2 days beacuse of my glitchy internet but I manage to learn some linux distro things. I learned now how to use icons from fontawesome for my project.
 
 # Day 15: January 18, Monday
@@ -124,5 +124,16 @@ I am absent for 2 days beacuse of my glitchy internet but I manage to learn some
 Day 15 of #100DaysOfCode in #freeCodeCamp
 Still working for my 3rd Project , I applied flexbox a lot on this and fixing some bugs . I add the url of the Youtube video to the iframe tag, but my internet is so slow so it does not show. Hope to finish this tommorow. Whish me luck. https://t.co/RhTklNVcOH
 
-**Thuoghts** 
+**Thoughts** 
 I'm struggling in this project but I will finish it no matter how it takes. I hope I will finish this tommorow.
+
+
+# Day 16: January 19, Tuesday
+
+**Today's Progress**
+
+Day 16 of #100DaysOfCode in #freeCodeCamp
+Yepey! I'm finished with my 3rd project! It's so tough ,especially for making it resposive on my device. But thanks to FCC & W3schools for the code examples and solutions. Looking forward to my 4th Project: Documentation Page 
+
+**Thoughts** 
+I'm felt happy and satisfied of my work. And learned something new from W3schools. Tommorrow I will work with my 4th project as well. 
