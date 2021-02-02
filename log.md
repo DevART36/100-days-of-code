@@ -137,3 +137,16 @@ Yepey! I'm finished with my 3rd project! It's so tough ,especially for making it
 
 **Thoughts** 
 I'm felt happy and satisfied of my work. And learned something new from W3schools. Tommorrow I will work with my 4th project as well. 
+
+# Day 17: February 2, Tuesday
+
+
+**Today's Progress**
+
+
+Day 17 of #100DaysOfCode in #freeCodeCamp
+Working with html in my JS Documentation Project. Just recovered from illness. Read some semantic tags from W3SCHOOLS to understand the markup of my project. I will add css and hope to finish it tomorrow.
+
+**Thoughts** 
+
+Just recovered from illness and in those days, I can't even get up from my bed. I missed almost 2 weeks in my coding journey. That's why I'm working on my project smartly now.
