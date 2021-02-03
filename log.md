@@ -150,3 +150,19 @@ Working with html in my JS Documentation Project. Just recovered from illness. R
 **Thoughts** 
 
 Just recovered from illness and in those days, I can't even get up from my bed. I missed almost 2 weeks in my coding journey. That's why I'm working on my project smartly now.
+
+# Day 18: February 3, Wednesday
+
+
+
+**Today's Progress**
+
+
+
+Day 18 of #100DaysOfCode in #freeCodeCamp
+Yepiee! I've just finished my Technical Documentation Page! I'm struggle a lot but I managed to cope with it. Looking forward for my last Responsive Design Project: Personal Portfolio Website. 
+
+**Thoughts** 
+
+It was tough but I manage to do it. I'm happy that I finished it even if I'd faced so many bugs.
+
