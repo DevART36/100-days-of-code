@@ -166,3 +166,20 @@ Yepiee! I've just finished my Technical Documentation Page! I'm struggle a lot b
 
 It was tough but I manage to do it. I'm happy that I finished it even if I'd faced so many bugs.
 
+# Day 19: February 4, Thursday
+
+
+
+
+**Today's Progress**
+
+
+
+
+Day 19 of #100DaysOfCode in #freeCodeCamp
+Started working my last responsive project. I have finished the 30% of it. I've used the color picker to determined the bgcolors and colors. Thinking about how to upload the thumbnails of my projects so that it will be like the sample
+**Thoughts** 
+
+Color picker is a great tool ,especially for web development. I am happy to work with my last responsive project and I will hope to finished it before my birthday so that I can gift my self some valuable certificates.
+
+
