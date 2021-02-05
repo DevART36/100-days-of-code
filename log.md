@@ -183,3 +183,16 @@ Started working my last responsive project. I have finished the 30% of it. I've 
 Color picker is a great tool ,especially for web development. I am happy to work with my last responsive project and I will hope to finished it before my birthday so that I can gift my self some valuable certificates.
 
 
+# Day 20: February 5, Friday
+
+
+
+
+**Today's Progress**
+
+Day 20 of #100DaysOfCode in #freeCodeCamp
+I'm almost done in my last project! Still figuring out the bug that I encountered, welcome section should be equal to viewport's height though I applied 100vh. But I thinnk I will solved it tommorrow on my Birthday :) 
+
+**Thoughts** 
+
+I'm so annoyed of the viewport issue but I think I can solved it tommorrow on my birthday. I'm so excvited to finished it and claim my gifts to my self.
