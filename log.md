@@ -210,3 +210,18 @@ Yehey! I have completed the Responsive Web Design Projects and earned a certific
 **Thoughts** 
 
 I'm so happy that I had completed the RWD projects! It's tough but it is so worth it. 
+
+# Day 22: February 7, Sunday
+
+
+
+
+**Today's Progress**
+
+Day 22 of #100DaysOfCode in #freeCodeCamp 
+Hello Javascript! My first day on Javascript, 28%Done
+Learn some data types: string,number,bolean,undefined,etc. I learn how to declare , store a value,concat variables. Learned about the escape characters: \n,\t,\',\". String methods. https://t.co/VB3GbNFnjq
+
+**Thoughts** 
+
+I think Javascript is so hard, but I will try my best to absurb and practice to master it. And I read online how important it is to master this programming langguage.
