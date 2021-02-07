@@ -195,4 +195,18 @@ I'm almost done in my last project! Still figuring out the bug that I encountere
 
 **Thoughts** 
 
-I'm so annoyed of the viewport issue but I think I can solved it tommorrow on my birthday. I'm so excvited to finished it and claim my gifts to my self.
+I'm so annoyed of the viewport issue but I think I can solved it tommorrow on my birthday. I'm so excited to finished it and claim my gifts to my self.
+
+# Day 21: February 6, Saturday
+
+
+
+
+**Today's Progress**
+
+Day 21 of #100DaysOfCode in #freeCodeCamp
+Happy Birthday to me! 
+Yehey! I have completed the Responsive Web Design Projects and earned a certificate that I can show off to my family and friends. Thank you sir @ossia for this awesome website and  thanks to all of the supporters. https://t.co/ntzbAnonhE
+**Thoughts** 
+
+I'm so happy that I had completed the RWD projects! It's tough but it is so worth it. 
