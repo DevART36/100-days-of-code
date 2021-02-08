@@ -211,9 +211,8 @@ Yehey! I have completed the Responsive Web Design Projects and earned a certific
 
 I'm so happy that I had completed the RWD projects! It's tough but it is so worth it. 
 
+
 # Day 22: February 7, Sunday
-
-
 
 
 **Today's Progress**
@@ -225,3 +224,14 @@ Learn some data types: string,number,bolean,undefined,etc. I learn how to declar
 **Thoughts** 
 
 I think Javascript is so hard, but I will try my best to absurb and practice to master it. And I read online how important it is to master this programming langguage.
+
+# Day 23: February 8, Monday
+
+
+**Today's Progress**
+
+Day 23 of #100DaysOfCode in #freeCodeCamp 
+Woah. I'm 61% finished in Basic JS. It's so hard but I managed to cope with some scope XD. I learned about arrays, .pop(),.push(),.shift(),.unshift(). Learned booleans, functions(),return,if statements,==,===, !=,!==, <,>,<=,>=.&&,||.
+**Thoughts** 
+
+I think my mind will explode but learning in JS is so fun and addictive. Happy to know that this one of the fundamentals in web development.
