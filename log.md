@@ -235,3 +235,12 @@ Woah. I'm 61% finished in Basic JS. It's so hard but I managed to cope with some
 **Thoughts** 
 
 I think my mind will explode but learning in JS is so fun and addictive. Happy to know that this one of the fundamentals in web development.
+
+# Day 24: February 9, Tuesday
+
+
+**Today's Progress**
+Day 24 of #100DaysOfCode in #freeCodeCamp 
+75 % completed in JS. Learned if/else ,else if,switch statements,Arrays[] and objects {}. Had some pretty challenges in Arrays and switch statements. It's so hard for me but I did my best to absurb and understand the concepts of topics. 
+**Thoughts** 
+Arrays and objects are so damn confusing but I did my best to understand the concept and use of the two. Switch and if /else statements are so fun to use. 
