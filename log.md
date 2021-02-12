@@ -244,3 +244,26 @@ Day 24 of #100DaysOfCode in #freeCodeCamp
 75 % completed in JS. Learned if/else ,else if,switch statements,Arrays[] and objects {}. Had some pretty challenges in Arrays and switch statements. It's so hard for me but I did my best to absurb and understand the concepts of topics. 
 **Thoughts** 
 Arrays and objects are so damn confusing but I did my best to understand the concept and use of the two. Switch and if /else statements are so fun to use. 
+
+# Day 25: February 10, Wednesday
+
+
+**Today's Progress**
+Day 25 of #100DaysOfCode in #freeCodeCamp 
+81% Completed in JS, Learned a lot of Objects and Arrays. It's mind blowing and head cracking but I tried my best to understand the concepts slowly. Learned how to add/delete object property via dot,bracket notation and delete. 
+
+**Thoughts** 
+
+Arrays and objects are pretty useful in terms of storing data. I think this is part of the Data Visualization ? HAha.
+
+# Day 26: February 12, Friday
+
+
+**Today's Progress**
+
+Day 26 of #100DaysOfCode in #freeCodeCamp 
+90 % completed in basic JS, learned JS loops: for,while and do-while. Learned loop nesting to iterate the elements of an array[]. The challenges are so damn hard but with patience and perseverance , I managed to solved it.  
+
+**Thoughts** 
+
+Using loops to access elements in an array is so confusing. Honestly , loops are one of the things in JS that is not easy to understand.
