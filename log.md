@@ -209,6 +209,7 @@ Happy Birthday to me!
 Yehey! I have completed the Responsive Web Design Projects and earned a certificate that I can show off to my family and friends. Thank you sir @ossia for this awesome website and  thanks to all of the supporters. https://t.co/ntzbAnonhE
 **Thoughts** 
 
+
 I'm so happy that I had completed the RWD projects! It's tough but it is so worth it. 
 
 
