@@ -268,3 +268,26 @@ Day 26 of #100DaysOfCode in #freeCodeCamp
 **Thoughts** 
 
 Using loops to access elements in an array is so confusing. Honestly , loops are one of the things in JS that is not easy to understand.
+
+
+# Day 27: February 12, Friday
+
+
+**Today's Progress**
+Day 27 of #100DaysOfCode in #freeCodeCamp 
+98% on basic JS, I'm still strugling and I admit it, it is so hard but I give myself some other resources to understand the functions, loops and objects more. Still learning more about the recursive function. Learned ternary operator ?: https://t.co/OinmJgdN49
+
+**Thoughts** 
+
+
+
+# Day 28: March 1, Monday
+
+
+Day 28 of #100DaysOfCode in #freeCodeCamp 
+Yehey! Just completed the basic JS , stuggle a lot in recursive () but somehow manage to get the hang of it by trying and trying.Good to try the Grasshopper App.Learned so much in the basics and I expect more in the upcoming lessons. https://t.co/dToAbi6bbD
+
+
+**Thoughts**
+
+I'm so thankful that I manage to get the hang of recursive(). I'm so confused by it at first but with the help of other resources and trying so hard.
