@@ -291,3 +291,15 @@ Yehey! Just completed the basic JS , stuggle a lot in recursive () but somehow m
 **Thoughts**
 
 I'm so thankful that I manage to get the hang of recursive(). I'm so confused by it at first but with the help of other resources and trying so hard.
+
+# Day 29: March 2, Tuesday
+
+
+Day 29 of #100DaysOfCode in #freeCodeCamp 
+
+Day 29 of #100DaysOfCode in #freeCodeCamp 
+const GREET = (greet) => console.log("Hello ES");I learn so much in my first day of ES6, let & const . And how to transform the ES5 function to a annonymous function. 
+
+**Thoughts**
+
+I'm excited to learn the standarize JS and applied it on my local projects.
