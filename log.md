@@ -303,3 +303,13 @@ const GREET = (greet) => console.log("Hello ES");I learn so much in my first day
 **Thoughts**
 
 I'm excited to learn the standarize JS and applied it on my local projects.
+
+
+ # Day 29: March 2, Tuesday
+
+
+Day 30 of #100DaysOfCode in #freeCodeCamp
+ES6 Rocks! I'm 45% completed. Learn some ES6 cool features: rest param and the destructing syntax for objects or arrays. I'm so amazed how this ES6 features can make my code clean & effective. My progress is like a snail :D 
+
+**Thoughts**
+I leared that ES6 is making our lives easier in terms of object && array manipulating. It is so good to make our code cleaner and hard to understand lol
