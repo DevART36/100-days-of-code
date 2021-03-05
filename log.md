@@ -313,3 +313,14 @@ ES6 Rocks! I'm 45% completed. Learn some ES6 cool features: rest param and the d
 
 **Thoughts**
 I leared that ES6 is making our lives easier in terms of object && array manipulating. It is so good to make our code cleaner and hard to understand lol
+
+# Day 31: March 2, Tuesday
+
+
+Day 31 of #100DaysOfCode in #freeCodeCamp
+
+Console.log("I'm moving so slow"). 52% completed in ES6.
+I 'm still getting the hang of Destructuring Assignment , Destructuring thing but it was fun and rewarding to know the easier way to write or manipulate data. https://t.co/lawjnmrPlj
+
+**Thoughts**
+Arrrggg ES6 is so freaking hard lol 
